@@ -4,7 +4,11 @@
   "webDir": "www",
   "bundledWebRuntime": false,
   "server": {
+    "url": "https://senthil.site.je",
     "cleartext": true,
-    "allowNavigation": ["senthil.site.je", "*.senthil.site.je"]
+    "allowNavigation": [
+      "senthil.site.je",
+      "*.senthil.site.je"
+    ]
   }
 }
